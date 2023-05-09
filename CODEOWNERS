@@ -1,0 +1,4 @@
+# ALL FILES ARE OWNED BY A SPECIFIC TEAM
+* @harishjayaram/devops
+# the files in the docs folder need extra signoff by another user
+/docs @harishjayaramaws
